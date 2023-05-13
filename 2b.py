@@ -39,4 +39,4 @@ print("Message déchiffré:",message_déchiffré)
 
 
 
-#Notes: Paula ne crypte pas le message elle le chiffre (car il faut une clé pour déchiffrer le message)
+#Notes: Paula ne crypte pas le message elle le chiffre (car elle ne possède pas la clé privée d'Alex)
